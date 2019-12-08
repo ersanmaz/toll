@@ -11,5 +11,4 @@ public class TollTaskApplication {
     public static void main(String[] args) {
         SpringApplication.run(TollTaskApplication.class, args);
     }
-
 }
